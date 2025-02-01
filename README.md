@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @rachealtanac@gmail.com.
-- 😄 Pronouns: she/her/they
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: im 4'10 haha
 
 <!---
