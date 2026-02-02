@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @rachzn
-- 👀 I’m interested in cybersecurity and cloud computing
+- 👀 I’m interested in front end dev and cybersecurity
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @rachealtanac@gmail.com.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: im 4'10 haha
+- ⚡ Fun fact: 
 
 <!---
 rachzn/rachzn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
