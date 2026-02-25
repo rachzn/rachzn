@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rachzn
-- 👀 I’m interested in front end dev and cybersecurity
+- 👀 I’m interested in front end dev,UX/UI design and cybersecurity
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any creative projects.
 - 📫 How to reach me @rachealtanac@gmail.com.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
