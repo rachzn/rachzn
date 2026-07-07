@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rachzn
-- 👀 I’m interested in front end dev,UX/UI design and cybersecurity
-- 🌱 I’m currently learning software engineering
+- 👋 Hi, I’m racheal
+- 👀 I’m interested in Front End dev, UX/UI design and cybersecurity
+- 🌱 I’m currently learning Firebase
 - 💞️ I’m looking to collaborate on any creative projects.
-- 📫 How to reach me @rachealtanac@gmail.com.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- 📫 How to reach me rachealtanac@gmail.com.
+- 😄 Pronouns: she/her/they
+- ⚡ Fun fact: im building an application about recipes whilst surviving on whatever is the easiest to cook😅
 
 <!---
 rachzn/rachzn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
