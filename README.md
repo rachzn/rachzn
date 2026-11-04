@@ -1,9 +1,9 @@
 - 👋 Hi, I’m racheal
-- 👀 I’m interested in Front End dev, UX/UI design and cybersecurity
+- 👀 I’m interested in Full stack dev, UX/UI design and cybersecurity
 - 🌱 I’m currently learning Firebase
 - 💞️ I’m looking to collaborate on any creative projects.
 - 📫 How to reach me rachealtanac@gmail.com.
-- 😄 Pronouns: she/her/they
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: im building an application about recipes whilst surviving on whatever is the easiest to cook😅
 
 <!---
